@@ -1,0 +1,489 @@
+uuids,experiment_name,experiment_date,sample_type,species,cell_line,agg_date,plating_date,org_age,media,patterning,drug,chip_number
+2024-05-04-e-sakura-day22and24,Trace_20240504_13_26_11_21985_day22_ventral_e14,2024-05-04 13:27:00,organoid,organoid,E14,2024-04-11,2024-04-29,23 days 13:27:00,sakura,ventral,,21985e
+2024-05-04-e-sakura-day22and24,Trace_20240504_12_46_26_22717_day22_dorsal_kh2,2024-05-04 12:47:53,organoid,organoid,KH2,2024-04-11,2024-04-29,23 days 12:47:53,sakura,dorsal,,22717e
+2024-05-04-e-sakura-day22and24,Trace_20240510_11_55_52_20264_28_ventral_kh2,2024-05-10 11:56:41,organoid,organoid,KH2,2024-04-11,2024-04-29,28 days 00:00:00,sakura,ventral,,20264e
+2024-05-04-e-sakura-day22and24,Trace_20240506_11_59_11_day24_ventral_kh2,2024-05-06 12:00:09,organoid,organoid,KH2,2024-04-11,2024-04-29,25 days 12:00:09,sakura,ventral,,unknownd
+2024-05-04-e-sakura-day22and24,Trace_20240510_11_19_56_22717_28_dorsa_kh2,2024-05-10 11:21:00,organoid,organoid,KH2,2024-04-11,2024-04-29,28 days 00:00:00,sakura,dorsal,,22717e
+2024-05-04-e-sakura-day22and24,Trace_20240506_13_00_38_22717_24_Dorsal_kh2,2024-05-06 13:01:21,organoid,organoid,KH2,2024-04-11,2024-04-29,25 days 13:01:21,sakura,dorsal,,22717e
+2024-05-04-e-sakura-day22and24_dorothy,Trace_20240504_12_42_01_22064_day22_ventral,2024-05-04 12:43:34,organoid,organoid,KH2,2024-04-11,2024-04-29,23 days 12:43:34,sakura,ventral,,22064e
+2024-05-04-e-sakura-day22and24_dorothy,Trace_20240504_13_17_44_20264_day22_kh2_dorsal,2024-05-04 13:18:34,organoid,organoid,KH2,2024-04-11,2024-04-29,23 days 13:18:34,sakura,dorsal,,20264e
+2024-05-04-e-sakura-day22and24_dorothy,Trace_20240506_12_02_39_22194_24_ventral_e14,2024-05-06 12:06:08,organoid,organoid,E14,2024-04-11,2024-04-29,25 days 12:06:08,sakura,ventral,,22194e
+2024-05-04-e-sakura-day22and24_dorothy,Trace_20240504_12_42_01_21985_day24_ventral_e14,2024-05-06 11:27:11,organoid,organoid,E14,2024-04-11,2024-04-29,25 days 11:27:11,sakura,ventral,,21985e
+2024-05-04-e-sakura-day22and24_dorothy,Trace_20240506_12_37_20_20402_24_dorsal_e14,2024-05-06 12:39:29,organoid,organoid,E14,2024-04-11,2024-04-29,25 days 12:39:29,sakura,dorsal,,20402d
+2024-05-10-e-all_cell_lines_dorsal_pasca,23150_E14_d35_5_14_2024_dorsal_pasca,2024-05-14 11:50:55,organoid,organoid,E14,2024-04-09,2024-04-29,35 days 11:50:55,sakura,dorsal,,23150e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23178_c57bl6_d35_5_14_2024_dorsal_pasca,2024-05-14 17:06:57,organoid,organoid,C57BL6,2024-04-09,2024-04-29,35 days 17:06:57,sakura,dorsal,,23178e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23156_c57bl6_d35_5_14_2024_dorsal_pasca,2024-05-14 16:40:47,organoid,organoid,C57BL6,2024-04-09,2024-04-29,35 days 16:40:47,sakura,dorsal,,23156e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23120_KH2_d35_5_14_2024_dorsal_pasca,2024-05-14 14:01:32,organoid,organoid,KH2,2024-04-09,2024-04-29,35 days 14:01:32,sakura,dorsal,,23120e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23187_E14_d35_5_14_2024_dorsal_pasca,2024-05-14 10:55:50,organoid,organoid,E14,2024-04-09,2024-04-29,35 days 10:55:50,sakura,dorsal,,23187e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23139_kh2_d35_5_14_2024_dorsal_pasca,2024-05-14 14:29:12,organoid,organoid,KH2,2024-04-09,2024-04-29,35 days 14:29:12,sakura,dorsal,,23139e
+2024-05-10-e-all_cell_lines_dorsal_pasca,22710_KH2_d35_5_14_2024_dorsal_pasca,2024-05-14 13:19:53,organoid,organoid,KH2,2024-04-09,2024-04-29,35 days 13:19:53,sakura,dorsal,,22710e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23141_c57bl6_d35_5_14_2024_dorsal_pasca,2024-05-14 15:07:55,organoid,organoid,C57BL6,2024-04-09,2024-04-29,35 days 15:07:55,sakura,dorsal,,23141e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23137_E14_d35_5_14_2024_dorsal_pasca,2024-05-14 11:25:04,organoid,organoid,E14,2024-04-09,2024-04-29,35 days 11:25:04,sakura,dorsal,,23137e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23215_c57bl6_d35_5_14_2024_dorsal_pasca,2024-05-14 15:49:06,organoid,organoid,C57BL6,2024-04-09,2024-04-29,35 days 15:49:06,sakura,dorsal,,23215e
+2024-05-10-e-all_cell_lines_dorsal_pasca,23124_KH2_d35_5_14_2024_dorsal_pasca,2024-05-14 12:41:32,organoid,organoid,KH2,2024-04-09,2024-04-29,35 days 12:41:32,sakura,dorsal,,23124e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23139_KH2_d38_5_17_2024_dorsal_pasca,2024-05-17 14:26:34,organoid,organoid,KH2,2024-04-09,2024-04-29,38 days 14:26:34,sakura,dorsal,,23139e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23178_c57bl6_d38_5_17_2024_dorsal_pasca,2024-05-17 16:37:54,organoid,organoid,C57BL6,2024-04-09,2024-04-29,38 days 16:37:54,sakura,dorsal,,23178e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23137_E14_d38_5_17_2024_dorsal_pasca,2024-05-17 09:56:51,organoid,organoid,E14,2024-04-09,2024-04-29,38 days 09:56:51,sakura,dorsal,,23137e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23120_KH2_d38_5_17_2024_dorsal_pasca,2024-05-17 13:58:04,organoid,organoid,KH2,2024-04-09,2024-04-29,38 days 13:58:04,sakura,dorsal,,23120e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23187_E14_d38_5_17_2024_dorsal_pasca,2024-05-17 10:55:46,organoid,organoid,E14,2024-04-09,2024-04-29,38 days 10:55:46,sakura,dorsal,,23187e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23150_E14_d38_5_17_2024_dorsal_pasca,2024-05-17 11:30:01,organoid,organoid,E14,2024-04-09,2024-04-29,38 days 11:30:01,sakura,dorsal,,23150e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23141_c57bl6_d38_5_17_2024_dorsal_pasca,2024-05-17 17:06:11,organoid,organoid,C57BL6,2024-04-09,2024-04-29,38 days 17:06:11,sakura,dorsal,,23141e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23156_c57bl6_d38_5_17_2024_dorsal_pasca,2024-05-17 15:19:34,organoid,organoid,C57BL6,2024-04-09,2024-04-29,38 days 15:19:34,sakura,dorsal,,23156e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23124_KH2_d38_5_17_2024_dorsal_pasca,2024-05-17 14:53:18,organoid,organoid,KH2,2024-04-09,2024-04-29,38 days 14:53:18,sakura,dorsal,,23124e
+2024-05-17-e-all_cell_lines_dorsal_pasca,22710_KH2_d38_5_17_2024_dorsal_pasca,2024-05-17 13:18:19,organoid,organoid,KH2,2024-04-09,2024-04-29,38 days 13:18:19,sakura,dorsal,,22710e
+2024-05-17-e-all_cell_lines_dorsal_pasca,23215_c57bl6_d38_5_17_2024_dorsal_pasca,2024-05-17 17:33:23,organoid,organoid,C57BL6,2024-04-09,2024-04-29,38 days 17:33:23,sakura,dorsal,,23215e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23124_KH2_d42-5-21-2024_dorsal_pasca,2024-05-21 14:07:23,organoid,organoid,KH2,2024-04-09,2024-04-29,42 days 14:07:23,sakura,dorsal,,23124e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23178_C57BL6_d42-5-21-2024_dorsal_pasca,2024-05-21 15:29:52,organoid,organoid,C57BL6,2024-04-09,2024-04-29,42 days 15:29:52,sakura,dorsal,,23178e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23141_C57BL6_d42-5-21-2024_dorsal_pasca,2024-05-21 15:02:31,organoid,organoid,C57BL6,2024-04-09,2024-04-29,42 days 15:02:31,sakura,dorsal,,23141e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23156_C57BL6_d42-5-21-2024_dorsal_pasca,2024-05-21 15:57:03,organoid,organoid,C57BL6,2024-04-09,2024-04-29,42 days 15:57:03,sakura,dorsal,,23156e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23150_E14_d42-5-21-2024_dorsal_pasca,2024-05-21 12:13:16,organoid,organoid,E14,2024-04-09,2024-04-29,42 days 12:13:16,sakura,dorsal,,23150e
+2024-05-21-e-all_cell_lines_dorsal_pasca,22710_KH2_d42-5-21-2024_dorsal_pasca,2024-05-21 14:34:18,organoid,organoid,KH2,2024-04-09,2024-04-29,42 days 14:34:18,sakura,dorsal,,22710e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23139_KH2_d42-5-21-2024_dorsal_pasca,2024-05-21 13:40:31,organoid,organoid,KH2,2024-04-09,2024-04-29,42 days 13:40:31,sakura,dorsal,,23139e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23187_E14_d42-5-21-2024_dorsal_pasca,2024-05-21 11:27:21,organoid,organoid,E14,2024-04-09,2024-04-29,42 days 11:27:21,sakura,dorsal,,23187e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23137_E14_d42-5-21-2024_dorsal_pasca,2024-05-21 12:41:20,organoid,organoid,E14,2024-04-09,2024-04-29,42 days 12:41:20,sakura,dorsal,,23137e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23215_C57BL6_d42-5-21-2024_dorsal_pasca,2024-05-21 16:24:39,organoid,organoid,C57BL6,2024-04-09,2024-04-29,42 days 16:24:39,sakura,dorsal,,23215e
+2024-05-21-e-all_cell_lines_dorsal_pasca,23120_KH2_d42-5-21-2024_dorsal_pasca,2024-05-21 13:11:45,organoid,organoid,KH2,2024-04-09,2024-04-29,42 days 13:11:45,sakura,dorsal,,23120e
+2024-05-07-e-c57bl6_dorsal_pasca,23179_c57bl6_d28_05_07_2024_dorsal_pasca,2024-05-07 15:04:17,organoid,organoid,C57BL6,2024-04-09,2024-04-29,28 days 15:04:17,sakura,dorsal,,23179d
+2024-05-07-e-c57bl6_dorsal_pasca,23156_c57bl6_d28_05_07_2024_dorsal_pasca,2024-05-07 17:30:39,organoid,organoid,C57BL6,2024-04-09,2024-04-29,28 days 17:30:39,sakura,dorsal,,23156e
+2024-05-07-e-c57bl6_dorsal_pasca,23215_c57bl6_d28_05_07_2024_dorsal_pasca,2024-05-07 15:34:35,organoid,organoid,C57BL6,2024-04-09,2024-04-29,28 days 15:34:35,sakura,dorsal,,23215e
+2024-05-07-e-c57bl6_dorsal_pasca,23178_c57bl6_d28_05_07_2024_dorsal_pasca,2024-05-07 16:54:33,organoid,organoid,C57BL6,2024-04-09,2024-04-29,28 days 16:54:33,sakura,dorsal,,23178e
+2024-05-07-e-c57bl6_dorsal_pasca,23141_c57bl6_d28_5_07_2024_dorsal_pasca,2024-05-07 16:23:21,organoid,organoid,C57BL6,2024-04-09,2024-04-29,28 days 16:23:21,sakura,dorsal,,23141e
+2024-05-07-e-e14_dorsal_pasca,23150_E14_D28_05_07_2024_dorsal_pasca,2024-05-07 21:01:21,organoid,organoid,E14,2024-04-09,2024-04-29,28 days 21:01:21,sakura,dorsal,,23150e
+2024-05-07-e-e14_dorsal_pasca,23196_E14_D28_05_07_2024_dorsal_pasca,2024-05-07 20:17:14,organoid,organoid,E14,2024-04-09,2024-04-29,28 days 20:17:14,sakura,dorsal,,23196d
+2024-05-07-e-e14_dorsal_pasca,23187_E14_D28_05_07_2024_dorsal_pasca,2024-05-07 21:28:05,organoid,organoid,E14,2024-04-09,2024-04-29,28 days 21:28:05,sakura,dorsal,,23187e
+2024-05-07-e-e14_dorsal_pasca,23154_E14_D28_05_07_2024_dorsal_pasca,2024-05-07 19:49:37,organoid,organoid,E14,2024-04-09,2024-04-29,28 days 19:49:37,sakura,dorsal,,23154d
+2024-05-07-e-kh2_dorsal_pasca,23124_KH2_D28_05_07_2024_dorsal_pasca,2024-05-07 18:07:01,organoid,organoid,KH2,2024-04-09,2024-04-29,28 days 18:07:01,sakura,dorsal,,23124e
+2024-05-07-e-kh2_dorsal_pasca,23120_KH2_D28_05_07_2024_dorsal_pasca,2024-05-07 19:21:43,organoid,organoid,KH2,2024-04-09,2024-04-29,28 days 19:21:43,sakura,dorsal,,23120e
+2024-05-07-e-kh2_dorsal_pasca,23139_KH2_D28_05_07_2024_dorsal_pasca,2024-05-07 18:42:20,organoid,organoid,KH2,2024-04-09,2024-04-29,28 days 18:42:20,sakura,dorsal,,23139e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23141_C57BL6_d45_5_24_2024_dorsal_pasca,2024-05-24 12:55:41,organoid,organoid,C57BL6,2024-04-09,2024-04-29,45 days 12:55:41,sakura,dorsal,,23141e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23137_E14_d45_5_24_2024_dorsal_pasca,2024-05-24 07:40:43,organoid,organoid,E14,2024-04-09,2024-04-29,45 days 07:40:43,sakura,dorsal,,23137e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23187_E14_d45_5_24_2024_dorsal_pasca,2024-05-24 08:25:34,organoid,organoid,E14,2024-04-09,2024-04-29,45 days 08:25:34,sakura,dorsal,,23187e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23124_KH2_d45_5_24_2024_dorsal_pasca,2024-05-24 09:24:04,organoid,organoid,KH2,2024-04-09,2024-04-29,45 days 09:24:04,sakura,dorsal,,23124e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23139_KH2_d45_5_24_2024_dorsal_pasca,2024-05-24 09:51:41,organoid,organoid,KH2,2024-04-09,2024-04-29,45 days 09:51:41,sakura,dorsal,,23139e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23120_KH2_d45_5_24_2024_dorsal_pasca,2024-05-24 10:18:00,organoid,organoid,KH2,2024-04-09,2024-04-29,45 days 10:18:00,sakura,dorsal,,23120e
+2024-05-24-e-all_cell_lines_dorsal_pasca,22710_KH2_d45_5_24_2024_dorsal_pasca,2024-05-24 08:57:11,organoid,organoid,KH2,2024-04-09,2024-04-29,45 days 08:57:11,sakura,dorsal,,22710e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23215_C57BL6_d45_5_24_2024_dorsal_pasca,2024-05-24 14:34:59,organoid,organoid,C57BL6,2024-04-09,2024-04-29,45 days 14:34:59,sakura,dorsal,,23215e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23178_C57BL6_d45_5_24_2024_dorsal_pasca,2024-05-24 13:26:08,organoid,organoid,C57BL6,2024-04-09,2024-04-29,45 days 13:26:08,sakura,dorsal,,23178e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23150_E14_d45_5_24_2024_dorsal_pasca,2024-05-24 06:56:41,organoid,organoid,E14,2024-04-09,2024-04-29,45 days 06:56:41,sakura,dorsal,,23150e
+2024-05-24-e-all_cell_lines_dorsal_pasca,23156_C57BL6_d45_5_24_2024_dorsal_pasca,2024-05-24 13:54:33,organoid,organoid,C57BL6,2024-04-09,2024-04-29,45 days 13:54:33,sakura,dorsal,,23156e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23137_E14_d49_5_28_2024_dorsal_pasca,2024-05-28 12:02:03,organoid,organoid,E14,2024-04-09,2024-04-29,49 days 12:02:03,sakura,dorsal,,23137e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23178_C57BL6_d49_5_28_2024_dorsal_pasca,2024-05-28 15:54:10,organoid,organoid,C57BL6,2024-04-09,2024-04-29,49 days 15:54:10,sakura,dorsal,,23178e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23141_C57BL6_d49_5_28_2024_dorsal_pasca,2024-05-28 16:21:28,organoid,organoid,C57BL6,2024-04-09,2024-04-29,49 days 16:21:28,sakura,dorsal,,23141e
+2024-05-28-e-all_cell_lines_dorsal_pasca,22710_KH2_d49_5_28_2024_dorsal_pasca,2024-05-28 12:54:09,organoid,organoid,KH2,2024-04-09,2024-04-29,49 days 12:54:09,sakura,dorsal,,22710e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23187_E14_d49_5_28_2024_dorsal_pasca,2024-05-28 10:17:12,organoid,organoid,E14,2024-04-09,2024-04-29,49 days 10:17:12,sakura,dorsal,,23187e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23156_C57BL6_d49_5_28_2024_dorsal_pasca,2024-05-28 14:49:27,organoid,organoid,C57BL6,2024-04-09,2024-04-29,49 days 14:49:27,sakura,dorsal,,23156e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23124_KH2_d49_5_28_2024_dorsal_pasca,2024-05-28 14:20:59,organoid,organoid,KH2,2024-04-09,2024-04-29,49 days 14:20:59,sakura,dorsal,,23124e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23120_KH2_d49_5_28_2024_dorsal_pasca,2024-05-28 13:24:47,organoid,organoid,KH2,2024-04-09,2024-04-29,49 days 13:24:47,sakura,dorsal,,23120e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23150_E14_d49_5_28_2024_dorsal_pasca,2024-05-28 11:28:15,organoid,organoid,E14,2024-04-09,2024-04-29,49 days 11:28:15,sakura,dorsal,,23150e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23215_C57BL6_d49_5_28_2024_dorsal_pasca,2024-05-28 15:15:59,organoid,organoid,C57BL6,2024-04-09,2024-04-29,49 days 15:15:59,sakura,dorsal,,23215e
+2024-05-28-e-all_cell_lines_dorsal_pasca,23139_KH2_d49_5_28_2024_dorsal_pasca,2024-05-28 13:51:00,organoid,organoid,KH2,2024-04-09,2024-04-29,49 days 13:51:00,sakura,dorsal,,23139e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23137_E14_d52_5_31_2024_dorsal_pasca,2024-05-31 12:01:16,organoid,organoid,E14,2024-04-09,2024-04-29,52 days 12:01:16,sakura,dorsal,,23137e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23178_C57BL6_d52_5_31_2024_dorsal_pasca,2024-05-31 08:55:39,organoid,organoid,C57BL6,2024-04-09,2024-04-29,52 days 08:55:39,sakura,dorsal,,23178e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23141_C57BL6_d52_5_31_2024_dorsal_pasca,2024-05-31 10:41:49,organoid,organoid,C57BL6,2024-04-09,2024-04-29,52 days 10:41:49,sakura,dorsal,,23141e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23215_C57BL6_d52_5_31_2024_dorsal_pasca,2024-05-31 10:10:49,organoid,organoid,C57BL6,2024-04-09,2024-04-29,52 days 10:10:49,sakura,dorsal,,23215e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23120_kh2_d52_5_31_2024_dorsal_pasca,2024-05-31 13:40:57,organoid,organoid,KH2,2024-04-09,2024-04-29,52 days 13:40:57,sakura,dorsal,,23120e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23150_E14_d52_5_31_2024_dorsal_pasca,2024-05-31 11:08:03,organoid,organoid,E14,2024-04-09,2024-04-29,52 days 11:08:03,sakura,dorsal,,23150e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23156_C57BL6_d52_5_31_2024_dorsal_pasca,2024-05-31 09:40:11,organoid,organoid,C57BL6,2024-04-09,2024-04-29,52 days 09:40:11,sakura,dorsal,,23156e
+2024-05-31-e-all_cell_lines_dorsal_pasca,22710_kh2_d52_5_31_2024_dorsal_pasca,2024-05-31 14:08:52,organoid,organoid,KH2,2024-04-09,2024-04-29,52 days 14:08:52,sakura,dorsal,,22710e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23187_E14_d52_5_31_2024_dorsal_pasca,2024-05-31 11:35:20,organoid,organoid,E14,2024-04-09,2024-04-29,52 days 11:35:20,sakura,dorsal,,23187e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23139_kh2_d52_5_31_2024_dorsal_pasca,2024-05-31 13:14:55,organoid,organoid,KH2,2024-04-09,2024-04-29,52 days 13:14:55,sakura,dorsal,,23139e
+2024-05-31-e-all_cell_lines_dorsal_pasca,23124_kh2_d52_5_31_2024_dorsal_pasca,2024-05-31 12:33:54,organoid,organoid,KH2,2024-04-09,2024-04-29,52 days 12:33:54,sakura,dorsal,,23124e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23187_C57BL6_d38_6_10_2024_dorsal_pasca,2024-06-11 10:00:12,organoid,organoid,C57BL6,2024-05-04,2024-06-04,38 days 10:00:12,sakura,dorsal,,23187e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23137_KH2_d38_6_10_2024_dorsal_pasca,2024-06-11 14:00:33,organoid,organoid,KH2,2024-05-04,2024-06-04,38 days 14:00:33,sakura,dorsal,,23137e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23215_C57BL6_d38_6_10_2024_dorsal_pasca,2024-06-11 11:49:55,organoid,organoid,C57BL6,2024-05-04,2024-06-04,38 days 11:49:55,sakura,dorsal,,23215e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23156_C57BL6_d38_6_10_2024_dorsal_pasca,2024-06-11 10:37:04,organoid,organoid,C57BL6,2024-05-04,2024-06-04,38 days 10:37:04,sakura,dorsal,,23156e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23120_E14_d38_6_10_2024_dorsal_pasca,2024-06-11 14:49:53,organoid,organoid,E14,2024-05-04,2024-06-04,38 days 14:49:53,sakura,dorsal,,23120e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23124_KH2_d38_6_10_2024_dorsal_pasca,2024-06-11 13:00:33,organoid,organoid,KH2,2024-05-04,2024-06-04,38 days 13:00:33,sakura,dorsal,,23124e
+2024-06-11-e-all_cell_lines_dorsal_pasca,22710_KH2_d38_6_10_2024_dorsal_pasca,2024-06-11 13:29:29,organoid,organoid,KH2,2024-05-04,2024-06-04,38 days 13:29:29,sakura,dorsal,,22710e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23150_E14_d38_6_10_2024_dorsal_pasca,2024-06-11 16:00:41,organoid,organoid,E14,2024-05-04,2024-06-04,38 days 16:00:41,sakura,dorsal,,23150e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23141_C57BL6_d38_6_10_2024_dorsal_pasca,2024-06-11 11:14:50,organoid,organoid,C57BL6,2024-05-04,2024-06-04,38 days 11:14:50,sakura,dorsal,,23141e
+2024-06-11-e-all_cell_lines_dorsal_pasca,23139_KH2_d38_6_10_2024_dorsal_pasca,2024-06-11 12:21:04,organoid,organoid,KH2,2024-05-04,2024-06-04,38 days 12:21:04,sakura,dorsal,,23139e
+2024-06-14-e-all_cell_lines_dorsal_pasca,23187_C57BL6_d41_06-14-2024_dorsal_pasca,2024-06-14 14:17:12,organoid,organoid,C57BL6,2024-05-04,2024-06-04,41 days 14:17:12,sakura,dorsal,,23187e
+2024-06-14-e-all_cell_lines_dorsal_pasca,23141_C57BL6_d41_06-14-2024_dorsal_pasca,2024-06-14 15:06:48,organoid,organoid,C57BL6,2024-05-04,2024-06-04,41 days 15:06:48,sakura,dorsal,,23141e
+2024-06-14-e-all_cell_lines_dorsal_pasca,23124_kh2_d41_06-14-2024_dorsal_pasca,2024-06-14 12:10:00,organoid,organoid,KH2,2024-05-04,2024-06-04,41 days 12:10:00,sakura,dorsal,,23124e
+2024-06-14-e-all_cell_lines_dorsal_pasca,22710_kh2_d41_06-14-2024_dorsal_pasca,2024-06-14 12:43:59,organoid,organoid,KH2,2024-05-04,2024-06-04,41 days 12:43:59,sakura,dorsal,,22710e
+2024-06-14-e-all_cell_lines_dorsal_pasca,23137_kh2_d41_06-14-2024_dorsal_pasca,2024-06-14 13:17:47,organoid,organoid,KH2,2024-05-04,2024-06-04,41 days 13:17:47,sakura,dorsal,,23137e
+2024-06-14-e-all_cell_lines_dorsal_pasca,23156_C57BL6_d41_06-14-2024_dorsal_pasca,2024-06-14 13:47:13,organoid,organoid,C57BL6,2024-05-04,2024-06-04,41 days 13:47:13,sakura,dorsal,,23156e
+2024-06-14-e-all_cell_lines_dorsal_pasca,23150_E14_d41_06-14-2024_dorsal_pasca,2024-06-14 17:15:38,organoid,organoid,E14,2024-05-04,2024-06-04,41 days 17:15:38,sakura,dorsal,,23150e
+2024-06-14-e-all_cell_lines_dorsal_pasca,23139_kh2_d41_06-14-2024_dorsal_pasca,2024-06-14 11:30:43,organoid,organoid,KH2,2024-05-04,2024-06-04,41 days 11:30:43,sakura,dorsal,,23139e
+2024-06-14-e-all_cell_lines_dorsal_pasca,23120_E14_d41_06-14-2024_dorsal_pasca,2024-06-14 15:55:47,organoid,organoid,E14,2024-05-04,2024-06-04,41 days 15:55:47,sakura,dorsal,,23120e
+2024-06-18-e-all_cell_lines_dorsal_pasca,23150_E14_d45_06-18-2024_dorsal_pasca,2024-06-18 18:34:50,organoid,organoid,E14,2024-05-04,2024-06-04,45 days 18:34:50,sakura,dorsal,,23150e
+2024-06-18-e-all_cell_lines_dorsal_pasca,23137_KH2_d45_06-18-2024_dorsal_pasca,2024-06-18 17:10:32,organoid,organoid,KH2,2024-05-04,2024-06-04,45 days 17:10:32,sakura,dorsal,,23137e
+2024-06-18-e-all_cell_lines_dorsal_pasca,22710_KH2_d45_06-18-2024_dorsal_pasca,2024-06-18 16:39:43,organoid,organoid,KH2,2024-05-04,2024-06-04,45 days 16:39:43,sakura,dorsal,,22710e
+2024-06-18-e-all_cell_lines_dorsal_pasca,23178_E14_d45_06-18-2024_dorsal_pasca,2024-06-18 17:58:37,organoid,organoid,E14,2024-05-04,2024-06-04,45 days 17:58:37,sakura,dorsal,,23178e
+2024-06-18-e-all_cell_lines_dorsal_pasca,23139_KH2_d45_06-18-2024_dorsal_pasca,2024-06-18 14:35:38,organoid,organoid,KH2,2024-05-04,2024-06-04,45 days 14:35:38,sakura,dorsal,,23139e
+2024-06-18-e-all_cell_lines_dorsal_pasca,23120_E14_d45_06-18-2024_dorsal_pasca,2024-06-18 18:14:24,organoid,organoid,E14,2024-05-04,2024-06-04,45 days 18:14:24,sakura,dorsal,,23120e
+2024-06-18-e-all_cell_lines_dorsal_pasca,23187_C57BL6_d45_06-18-2024_dorsal_pasca,2024-06-18 12:47:02,organoid,organoid,C57BL6,2024-05-04,2024-06-04,45 days 12:47:02,sakura,dorsal,,23187e
+2024-06-18-e-all_cell_lines_dorsal_pasca,23156_C57_d45_06-18-2024_dorsal_pasca,2024-06-18 10:07:56,organoid,organoid,C57BL6,2024-05-04,2024-06-04,45 days 10:07:56,sakura,dorsal,,23156e
+2024-06-18-e-all_cell_lines_dorsal_pasca,23141_C57BL6_d45_06-18-2024_dorsal_pasca,2024-06-18 10:56:35,organoid,organoid,C57BL6,2024-05-04,2024-06-04,45 days 10:56:35,sakura,dorsal,,23141e
+2024-06-19-e-sakura-ventral-day46,Trace_20240619_12_53_28_23119a_day46_ventral_c57,2024-06-19 12:53:57,organoid,organoid,C57BL6,2024-05-04,,46 days 12:53:57,sakura,ventral,,23119ae
+2024-06-19-e-sakura-ventral-day46,Trace_20240619_11_52_51_22150a_day46_ventral_c57,2024-06-19 11:54:47,organoid,organoid,C57BL6,2024-05-04,,46 days 11:54:47,sakura,ventral,,22150ae
+2024-06-19-e-sakura-ventral-day46,Trace_20240619_12_24_17_20174a_day46_ventral_c57,2024-06-19 12:25:10,organoid,organoid,C57BL6,2024-05-04,,46 days 12:25:10,sakura,ventral,,20174ae
+2024-06-21-e-all_cell_lines_dorsal_pasca,23156_C57_d48_06-21-2024_dorsal_pasca,2024-06-21 11:23:41,organoid,organoid,C57BL6,2024-05-04,2024-06-04,48 days 11:23:41,sakura,dorsal,,23156e
+2024-06-21-e-all_cell_lines_dorsal_pasca,23187_C57_d48_06-21-2024_dorsal_pasca,2024-06-21 10:00:32,organoid,organoid,C57BL6,2024-05-04,2024-06-04,48 days 10:00:32,sakura,dorsal,,23187e
+2024-06-21-e-all_cell_lines_dorsal_pasca,23120_E14_d48_06-21-2024_dorsal_pasca,2024-06-21 15:51:11,organoid,organoid,E14,2024-05-04,2024-06-04,48 days 15:51:11,sakura,dorsal,,23120e
+2024-06-21-e-all_cell_lines_dorsal_pasca,22710_KH2_d48_06-21-2024_dorsal_pasca,2024-06-21 14:24:00,organoid,organoid,KH2,2024-05-04,2024-06-04,48 days 14:24:00,sakura,dorsal,,22710e
+2024-06-21-e-all_cell_lines_dorsal_pasca,23141_C57_d48_06-21-2024_dorsal_pasca,2024-06-21 10:31:37,organoid,organoid,C57BL6,2024-05-04,2024-06-04,48 days 10:31:37,sakura,dorsal,,23141e
+2024-06-21-e-all_cell_lines_dorsal_pasca,23178_E14_d48_06-21-2024_dorsal_pasca,2024-06-21 16:09:30,organoid,organoid,E14,2024-05-04,2024-06-04,48 days 16:09:30,sakura,dorsal,,23178e
+2024-06-21-e-all_cell_lines_dorsal_pasca,23150_E14_d48_06-21-2024_dorsal_pasca,2024-06-21 15:32:19,organoid,organoid,E14,2024-05-04,2024-06-04,48 days 15:32:19,sakura,dorsal,,23150e
+2024-06-21-e-all_cell_lines_dorsal_pasca,23139_KH2_d48_06-21-2024_dorsal_pasca,2024-06-21 14:59:19,organoid,organoid,KH2,2024-05-04,2024-06-04,48 days 14:59:19,sakura,dorsal,,23139e
+2024-06-21-e-all_cell_lines_dorsal_pasca,23137_KH2_d48_06-21-2024_dorsal_pasca,2024-06-21 12:15:02,organoid,organoid,KH2,2024-05-04,2024-06-04,48 days 12:15:02,sakura,dorsal,,23137e
+2024-06-21-e-cady-sakura-dorsal-ventral,Trace_20240621_16_27_39_p001354_day69_dorsal_e14,2024-06-21 16:28:22,organoid,organoid,E14,2024-04-11,2024-04-29,71 days 16:28:22,sakura,dorsal,,p001354e
+2024-06-21-e-cady-sakura-dorsal-ventral,Trace_20240621_13_37_18_20247_day69_dorsal_e14,2024-06-21 13:37:41,organoid,organoid,E14,2024-04-11,2024-04-29,71 days 13:37:41,sakura,dorsal,,20247e
+2024-06-21-e-cady-sakura-dorsal-ventral,Trace_20240614_16_47_27_22717_day61_ventral_kh2,2024-06-14 16:48:01,organoid,organoid,KH2,2024-04-11,2024-04-29,64 days 16:48:01,sakura,ventral,,22717e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T142357-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T150101-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T160100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T170101-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T180101-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T190100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T200100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T210100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T220100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-20-T230100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T000100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T010100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T020100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T030100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T040100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T050100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T060100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T070100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T080100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T090100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T100100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T110100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T120100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T130100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T140100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T150101-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T160101-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T170100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T180100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T190100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T200100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T210101-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T220100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-21-T230100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T000100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T010100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T020100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T030100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T040100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T050100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T060100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T070100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T080100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T090100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T100100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T110100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-03-20-e-auto-mouse-slice-22542,2024-03-22-T120100-chip22542,,primary mouse slice P3,mouse,C57BL6,,,,,unknown,,22542e
+2024-02-06-e-auto-mouse-slice2,2024-02-06-T170100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-06-T180101-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-06-T190100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-06-T200100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-06-T210100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-06-T220100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-06-T230101-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-07-T000100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-07-T010100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-07-T020101-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-07-T030100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-02-06-e-auto-mouse-slice2,2024-02-07-T040100-chip20215,,p0 mouse slice,mouse,C57BL6,,1/26/2024,,,unknown,,20215e
+2024-01-31-e-auto-mouse-slice,2024-01-31-T183000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T120000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T130001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T140000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T150000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T160001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T170000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T181600-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T190001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T200000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T210000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-01-T220000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-02-T171613-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-02-T212603-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-02-T220000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-02-T230000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T000000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T010000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T020000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T030000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T040000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T050000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T060000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T070000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T080000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T090000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T100000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T110000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T120000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T130000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T140000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T150000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T160000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T170001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T180001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T190001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T200000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T210000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T220000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-03-T230000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T000000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T010000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T020000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T030001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T040000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T050001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T060000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T070001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T080000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T090001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T100000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T110001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T120000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T130000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T140000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T150000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T160000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T170001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T180001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T190000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T200000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T210000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T220000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-04-T230001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-05-T000000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-05-T010001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-05-T020000-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-05-T030001-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-06-T100100-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-06-T100501-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-06-T110500-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-06-T120500-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-06-T130500-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-06-T140500-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-06-T150500-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-01-31-e-auto-mouse-slice,2024-02-06-T160501-chip20380,,organoid,organoid,primary,,2024-1-26,,,unknown,,20380d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_17_40_05_day26_p001384_APV_540pm,2024-04-04 17:40:25,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,apv,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240405_10_42_50_day27_p001384_dmso_incubated_1043am,2024-04-05 10:43:10,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,27 days 10:43:10,gfcdm,dorsal,dmso,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_21_08_20_day26_p001384_CCH_908pm,2024-04-04 21:08:49,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,carbachol,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_18_11_23_day26_p001384_APV_incubated_611pm,2024-04-04 18:11:57,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,apv,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_16_01_2_day26_p001384_Dopamine_401pm,2024-04-04 16:02:00,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,dopamine,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_16_32_34_day26_p001384_dopamine_incubated_432pm,2024-04-04 16:33:07,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,dopamine,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240405_08_57_24_day27_p001384_Bicuculline_incubated_857am,2024-04-05 08:57:55,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,27 days 08:57:55,gfcdm,dorsal,bicuculine,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_19_24_18_day26_p001384_Gabazine_724pm,2024-04-04 19:24:42,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,gaba,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240405_10_00_51_day27_p001384_baseline_1001am,2024-04-05 10:01:16,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,27 days 10:01:16,gfcdm,dorsal,baseline,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_17_27_54_day26_p001384_baseline_528pm,2024-04-04 17:28:14,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,baseline,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_19_12_24_day26_p001384_baseline_712pm,2024-04-04 19:12:42,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,baseline,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240405_08_15_06_day27_001384_baseline_815am,2024-04-05 08:15:23,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,27 days 08:15:23,gfcdm,dorsal,baseline,unknownd
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_14_33_47_day26_p001384_gaba_incubated_234pm,2024-04-04 14:34:12,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,gaba,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240405_10_12_27_day2_p001384_dmso_1012am,2024-04-05 10:12:42,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,27 days 10:12:42,gfcdm,dorsal,dmso,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_20_54_06_day26_p001384_baseline_854pm,2024-04-04 20:54:24,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,baseline,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_19_54_47_day26_p001384_gabazine_incubated_755pm,2024-04-04 19:55:17,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,gaba,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240405_08_25_32_day27_p001384_bicuculline_827am,2024-04-05 08:27:06,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,27 days 08:27:06,gfcdm,dorsal,bicuculine,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_14_03_17_day26_poo1384_gaba_203pm,2024-04-04 14:03:41,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,gaba,unknownd
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_15_49_50_day26_p001384_baseline_350pm,2024-04-04 15:50:12,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,baseline,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_13_51_08_day26_p001384_baseline_151pm,2024-04-04 13:51:39,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,baseline,p001384d
+2024-04-04-e-p001384-pharma-reupload,Trace_20240404_21_38_15_day26_p001384_Cch_incubated_938pm,2024-04-04 21:38:42,ms organoid gfcdm,organoid,C57BL6,2024-03-09,2024-03-28,26 days 00:00:00,gfcdm,dorsal,carbachol,p001384d
+2024-02-09-e-pharma1-20380-HS,_20380_carbacol,2024-02-09 17:30:04,P0 primary mouse slice,mouse,C57BL6,,2024--01--26,,,unknown,,20380d
+2024-02-09-e-pharma1-20380-HS,Trace_20240209_15_24_13_20380_DMSO,2024-02-09 15:24:27,P0 primary mouse slice,mouse,C57BL6,,2024--01--26,,,unknown,dmso,20380d
+2024-02-09-e-pharma1-20380-HS,Trace_20240209_14_50_27_NBQX,2024-02-09 14:50:34,P0 primary mouse slice,mouse,C57BL6,,2024--01--26,,,unknown,nbqx,unknownd
+2024-02-09-e-pharma1-20380-HS,Trace_20240209_16_48_06_20380_dopamine,2024-02-09 16:48:35,P0 primary mouse slice,mouse,C57BL6,,2024--01--26,,,unknown,dopamine,20380d
+2024-02-09-e-pharma1-20380-HS,Trace_20240209_16_05_19__20380_APV,2024-02-09 16:05:44,P0 primary mouse slice,mouse,C57BL6,,2024--01--26,,,unknown,apv,20380d
+2024-02-09-e-pharma1-20380-HS,20380_GABA,2024-02-09 14:03:49,P0 primary mouse slice,mouse,C57BL6,,2024--01--26,,,unknown,gaba,20380d
+2024-02-09-e-pharma1-20380-HS,Trace_20240209_13_50_47_Baseline,2024-02-09 13:51:35,P0 primary mouse slice,mouse,C57BL6,,2024--01--26,,,unknown,baseline,unknownd
+2024-07-01-e-sakura-drugs-22194,Trace_20240701_12_07_14_22194_80_ventral_e14_baseline,2024-07-01 12:08:07,organoid,organoid,E14,2024-04-11,2024-04-29,81 days 12:08:07,sakura,ventral,baseline,22194e
+2024-07-01-e-sakura-drugs-22194,Trace_20240701_12_07_14_22194_80_ventral_e14_GABA_inc,2024-07-01 12:57:12,organoid,organoid,E14,2024-04-11,2024-04-29,81 days 12:57:12,sakura,ventral,gaba,22194e
+2024-07-01-e-sakura-drugs-22194,Trace_20240701_12_07_14_22194_80_ventral_e14_baseline_dopamine,2024-07-01 13:46:44,organoid,organoid,E14,2024-04-11,2024-04-29,81 days 13:46:44,sakura,ventral,dopamine,22194e
+2024-07-01-e-sakura-drugs-22194,Trace_20240701_12_07_14_22194_80_ventral_e14_GABA_init,2024-07-01 12:26:50,organoid,organoid,E14,2024-04-11,2024-04-29,81 days 12:26:50,sakura,ventral,gaba,22194e
+2024-07-01-e-sakura-drugs-22194,Trace_20240701_12_07_14_22194_80_ventral_e14_dopamine_inc,2024-07-01 14:36:52,organoid,organoid,E14,2024-04-11,2024-04-29,81 days 14:36:52,sakura,ventral,dopamine,22194e
+2024-07-01-e-sakura-drugs-22194,Trace_20240701_12_07_14_22194_80_ventral_e14_dopamine_init,2024-07-01 14:06:12,organoid,organoid,E14,2024-04-11,2024-04-29,81 days 14:06:12,sakura,ventral,dopamine,22194e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_BL,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_bl_gaba,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,gaba,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_bl_gaba_inc,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,gaba,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_Bl_dopamine,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,dopamine,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_Bl_dopamine_init,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,dopamine,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_Bl_dopamine_inc,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,dopamine,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_Bl_APV,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,apv,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_APV_init,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,apv,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240624_11_00_36_22097_day73_dorsal_kh2_APV_inc,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,apv,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_BL,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_NBQX_init,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,nbqx,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_NBQX_inc,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,nbqx,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_Baseline_CCH,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,baseline,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_CCH_init,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,carbachol,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_CCH_inc,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,carbachol,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_Baseline_gabazine,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,gaba,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_gabazine_init,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,gaba,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_gabazine_inc,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,gaba,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_baseline_dmso,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,baseline,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_dmso_init,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,dmso,22097e
+2024-06-24-e-sakura-drugs-22097,Trace_20240625_10_39_42_22097_day74_dorsal_KH2_dmso_inc,,organoid,organoid,KH2,2024-04-11,2024-04-29,,sakura,dorsal,dmso,22097e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23156_C57_d52_06-25-2024_dorsal_pasca,2024-06-25 13:15:22,organoid,organoid,C57BL6,2024-05-04,2024-06-04,52 days 13:15:22,sakura,dorsal,,23156e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23124_KH2_d52_06-25-2024_dorsal_pasca,2024-06-25 14:28:59,organoid,organoid,KH2,2024-05-04,2024-06-04,52 days 14:28:59,sakura,dorsal,,23124e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23137_KH2_d52_06-25-2024_dorsal_pasca,2024-06-25 13:48:46,organoid,organoid,KH2,2024-05-04,2024-06-04,52 days 13:48:46,sakura,dorsal,,23137e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23139_KH2_d52_06-25-2024_dorsal_pasca,2024-06-25 15:01:56,organoid,organoid,KH2,2024-05-04,2024-06-04,52 days 15:01:56,sakura,dorsal,,23139e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23141_C57_d52_06-25-2024_dorsal_pasca,2024-06-25 12:17:37,organoid,organoid,C57BL6,2024-05-04,2024-06-04,52 days 12:17:37,sakura,dorsal,,23141e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23150_E14_d52_06-25-2024_dorsal_pasca,2024-06-25 15:35:09,organoid,organoid,E14,2024-05-04,2024-06-04,52 days 15:35:09,sakura,dorsal,,23150e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23187_C57_d52_06-25-2024_dorsal_pasca,2024-06-25 09:56:33,organoid,organoid,C57BL6,2024-05-04,2024-06-04,52 days 09:56:33,sakura,dorsal,,23187e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23178_E14_d52_06-25-2024_dorsal_pasca,2024-06-25 16:10:26,organoid,organoid,E14,2024-05-04,2024-06-04,52 days 16:10:26,sakura,dorsal,,23178e
+2024-06-25-e-all_cell_lines_dorsal_pasca,23120_E14_d52_06-25-2024_dorsal_pasca,2024-06-25 15:53:14,organoid,organoid,E14,2024-05-04,2024-06-04,52 days 15:53:14,sakura,dorsal,,23120e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23156_C57_d55_06-28-2024_dorsal_pasca,2024-06-28 09:50:12,organoid,organoid,C57BL6,2024-05-04,2024-06-04,55 days 09:50:12,sakura,dorsal,,23156e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23187_C57_d55_06-28-2024_dorsal_pasca,2024-06-28 09:02:54,organoid,organoid,C57BL6,2024-05-04,2024-06-04,55 days 09:02:54,sakura,dorsal,,23187e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23124_KH2_d55_06-28-2024_dorsal_pasca,2024-06-28 11:32:35,organoid,organoid,KH2,2024-05-04,2024-06-04,55 days 11:32:35,sakura,dorsal,,23124e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23150_E14_d55_06-28-2024_dorsal_pasca,2024-06-28 12:44:47,organoid,organoid,E14,2024-05-04,2024-06-04,55 days 12:44:47,sakura,dorsal,,23150e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23120_E14_d55_06-28-2024_dorsal_pasca,2024-06-28 13:16:24,organoid,organoid,E14,2024-05-04,2024-06-04,55 days 13:16:24,sakura,dorsal,,23120e
+2024-06-28-e-all_cell_lines_dorsal_pasca,22710_KH2_d55_06-28-2024_dorsal_pasca,2024-06-28 11:01:21,organoid,organoid,KH2,2024-05-04,2024-06-04,55 days 11:01:21,sakura,dorsal,,22710e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23139_KH2_d55_06-28-2024_dorsal_pasca,2024-06-28 12:25:55,organoid,organoid,KH2,2024-05-04,2024-06-04,55 days 12:25:55,sakura,dorsal,,23139e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23137_KH2_d55_06-28-2024_dorsal_pasca,2024-06-28 10:23:01,organoid,organoid,KH2,2024-05-04,2024-06-04,55 days 10:23:01,sakura,dorsal,,23137e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23141_C57_d55_06-28-2024_dorsal_pasca,2024-06-28 09:30:57,organoid,organoid,C57BL6,2024-05-04,2024-06-04,55 days 09:30:57,sakura,dorsal,,23141e
+2024-06-28-e-all_cell_lines_dorsal_pasca,23178_E14_d55_06-28-2024_dorsal_pasca,2024-06-28 13:32:49,organoid,organoid,E14,2024-05-04,2024-06-04,55 days 13:32:49,sakura,dorsal,,23178e
+2024-07-01-e-sakura-drugs-22717,Trace_20240701_15_50_14_22717_80_ventral_kh2_baseline_APV,2024-07-01 15:51:51,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 15:51:51,sakura,ventral,baseline,22717e
+2024-07-01-e-sakura-drugs-22717,Trace_20240701_15_50_14_22717_80_ventral_kh2_APV_inc,2024-07-01 16:40:30,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 16:40:30,sakura,ventral,apv,22717e
+2024-07-01-e-sakura-drugs-22717,Trace_20240701_15_50_14_22717_80_ventral_kh2_baseline_APV_init,2024-07-01 16:11:31,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 16:11:31,sakura,ventral,baseline,22717e
+2024-07-02-e-all_cell_lines_dorsal_pasca,23178_E14_d59_07-02-2024_dorsal_pasca,2024-07-02 14:18:18,organoid,organoid,E14,2024-05-04,2024-06-04,59 days 14:18:18,sakura,dorsal,,23178e
+2024-07-02-e-all_cell_lines_dorsal_pasca,23124_KH2_d59_07-02-2024_dorsal_pasca,2024-07-02 12:11:29,organoid,organoid,KH2,2024-05-04,2024-06-04,59 days 12:11:29,sakura,dorsal,,23124e
+2024-07-02-e-all_cell_lines_dorsal_pasca,23139_KH2_d59_07-02-2024_dorsal_pasca,2024-07-02 12:44:39,organoid,organoid,KH2,2024-05-04,2024-06-04,59 days 12:44:39,sakura,dorsal,,23139e
+2024-07-02-e-all_cell_lines_dorsal_pasca,23150_E14_d59_07-02-2024_dorsal_pasca,2024-07-02 13:19:34,organoid,organoid,E14,2024-05-04,2024-06-04,59 days 13:19:34,sakura,dorsal,,23150e
+2024-07-02-e-all_cell_lines_dorsal_pasca,23187_C57_d59_07-02-2024_dorsal_pasca,2024-07-02 09:09:12,organoid,organoid,C57BL6,2024-05-04,2024-06-04,59 days 09:09:12,sakura,dorsal,,23187e
+2024-07-02-e-all_cell_lines_dorsal_pasca,23137_KH2_d59_07-02-2024_dorsal_pasca,2024-07-02 11:00:18,organoid,organoid,KH2,2024-05-04,2024-06-04,59 days 11:00:18,sakura,dorsal,,23137e
+2024-07-02-e-all_cell_lines_dorsal_pasca,23120_E14_d59_07-02-2024_dorsal_pasca,2024-07-02 13:56:19,organoid,organoid,E14,2024-05-04,2024-06-04,59 days 13:56:19,sakura,dorsal,,23120e
+2024-07-02-e-all_cell_lines_dorsal_pasca,23141_C57_d59_07-02-2024_dorsal_pasca,2024-07-02 09:40:24,organoid,organoid,C57BL6,2024-05-04,2024-06-04,59 days 09:40:24,sakura,dorsal,,23141e
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_baseline_GABA,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,gaba,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_GABA_init,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,gaba,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_GABA_inc,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,gaba,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_baseline_dopamine,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,dopamine,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_dopamine_init,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,dopamine,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_dopamine_inc,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,dopamine,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_baseline_apv,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,baseline,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_apv_init,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,apv,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_apv_inc,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,apv,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_baseline_nbqx,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,nbqx,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_nbqx_init,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,nbqx,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_nbqx_inc,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,nbqx,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_baseline_cch,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,baseline,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_cch_init,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,carbachol,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_cch_inc,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,carbachol,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_baseline_gabazine,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,gaba,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_gabazine_init,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,gaba,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_gabazine_inc,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,gaba,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_baseline_dmso,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,baseline,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_dmso_init,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,dmso,20174ae
+2024-07-02-e-sakura-drugs-20174a,Trace_20240702_11_11_34_20174a_58_ventral_c57_dmso_inc,,organoid,organoid,C57BL6,2024-05-04,2024-06-08,,sakura,ventral,dmso,20174ae
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_NBQX_inc,2024-07-02 11:29:28,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 11:29:28,sakura,dorsal,nbqx,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_baseline_CCH,2024-07-02 12:12:52,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 12:12:52,sakura,dorsal,baseline,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_dmso_init,2024-07-02 15:32:07,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 15:32:07,sakura,dorsal,dmso,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_baseline,2024-07-01 11:57:20,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 11:57:20,sakura,dorsal,baseline,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_baseline_gabazine,2024-07-02 13:44:59,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 13:44:59,sakura,dorsal,gaba,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_gabazine_inc,2024-07-02 14:31:31,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 14:31:31,sakura,dorsal,gaba,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_GABA_inc,2024-07-01 12:57:14,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 12:57:14,sakura,dorsal,gaba,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_gabazine_init,2024-07-02 13:59:57,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 13:59:57,sakura,dorsal,gaba,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_GABA_init,2024-07-01 12:26:52,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 12:26:52,sakura,dorsal,gaba,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_APV_init,2024-07-01 15:54:25,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 15:54:25,sakura,dorsal,apv,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_dopamine_inc,2024-07-01 14:37:26,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 14:37:26,sakura,dorsal,dopamine,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_baseline_dmso,2024-07-02 15:15:28,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 15:15:28,sakura,dorsal,baseline,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_NBQX_init,2024-07-02 10:59:24,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 10:59:24,sakura,dorsal,nbqx,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_APV_inc,2024-07-01 16:24:56,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 16:24:56,sakura,dorsal,apv,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_baseline_APV,2024-07-01 15:28:59,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 15:28:59,sakura,dorsal,baseline,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_dopamine_init,2024-07-01 14:06:39,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 14:06:39,sakura,dorsal,dopamine,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_CCH_inc,2024-07-02 12:58:10,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 12:58:10,sakura,dorsal,carbachol,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_dmso_inc,2024-07-02 15:57:20,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 15:57:20,sakura,dorsal,dmso,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_baseline_dopamine,2024-07-01 13:46:46,organoid,organoid,KH2,2024-04-11,2024-04-29,81 days 13:46:46,sakura,dorsal,dopamine,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_CCH_init,2024-07-02 12:29:05,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 12:29:05,sakura,dorsal,carbachol,20264e
+2024-07-02-e-sakura-drugs-20264,Trace_20240701_11_55_53_20264_80_dorsal_kh2_baseline_NBQX,2024-07-02 10:35:34,organoid,organoid,KH2,2024-04-11,2024-04-29,82 days 10:35:34,sakura,dorsal,nbqx,20264e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_cch_inc,2024-07-03 18:07:29,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 18:07:29,sakura,dorsal,carbachol,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_baseline_dopamine,2024-07-03 12:04:04,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 12:04:04,sakura,dorsal,dopamine,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_baseline_cch,2024-07-03 17:23:39,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 17:23:39,sakura,dorsal,baseline,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_dmso_inc,2024-07-03 20:40:58,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 20:40:58,sakura,dorsal,dmso,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_baseline_nbqx,2024-07-03 15:57:36,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 15:57:36,sakura,dorsal,nbqx,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_gabazine_init,2024-07-03 19:06:23,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 19:06:23,sakura,dorsal,gaba,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_nbqx_inc,2024-07-03 16:42:16,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 16:42:16,sakura,dorsal,nbqx,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_apv_init,2024-07-03 14:19:10,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 14:19:10,sakura,dorsal,apv,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_baseline_dmso,2024-07-03 20:15:31,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 20:15:31,sakura,dorsal,baseline,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_nbqx_init,2024-07-03 16:12:11,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 16:12:11,sakura,dorsal,nbqx,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_gaba_inc,2024-07-03 11:14:15,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 11:14:15,sakura,dorsal,gaba,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_baseline_apv,2024-07-03 14:01:51,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 14:01:51,sakura,dorsal,baseline,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_dmso_init,2024-07-03 20:29:31,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 20:29:31,sakura,dorsal,dmso,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_dopamine_init,2024-07-03 12:20:48,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 12:20:48,sakura,dorsal,dopamine,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_apv_inc,2024-07-03 14:49:20,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 14:49:20,sakura,dorsal,apv,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_cch_init,2024-07-03 17:37:25,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 17:37:25,sakura,dorsal,carbachol,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_gaba_init,2024-07-03 10:44:10,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 10:44:10,sakura,dorsal,gaba,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_gabazine_inc,2024-07-03 19:33:31,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 19:33:31,sakura,dorsal,gaba,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_baseline_gabazine,2024-07-03 18:52:10,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 18:52:10,sakura,dorsal,gaba,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_dopamine_inc,2024-07-03 12:51:21,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 12:51:21,sakura,dorsal,dopamine,21985e
+2024-07-03-e-sakura-drugs-21985,Trace_20240703_10_24_02_21985_82_dorsal_kh2_baseline_gaba,2024-07-03 10:27:00,organoid,organoid,KH2,2024-04-11,2024-04-29,83 days 10:27:00,sakura,dorsal,gaba,21985e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_nbqx_init,2024-06-25 11:00:47,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 11:00:47,sakura,dorsal,nbqx,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_11_08_11_20247_day73_dorsal_e14_Baseline,2024-06-24 11:09:23,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 11:09:23,sakura,dorsal,baseline,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_baseline_dmso,2024-06-25 15:27:55,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 15:27:55,sakura,dorsal,baseline,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_11_08_11_20247_day73_dorsal_e14_Baseline_dopamine,2024-06-24 13:41:08,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 13:41:08,sakura,dorsal,dopamine,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_12_05_49_20247_day73_dorsal_e14_gaba_init,2024-06-24 12:07:25,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 12:07:25,sakura,dorsal,gaba,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_gabazine_init,2024-06-25 14:10:22,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 14:10:22,sakura,dorsal,gaba,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_CCH_inc,2024-06-25 13:06:42,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 13:06:42,sakura,dorsal,carbachol,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_Baseline,2024-06-25 10:40:35,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 10:40:35,sakura,dorsal,baseline,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_11_08_11_20247_day73_dorsal_e14_dopamine_inc,2024-06-24 14:32:49,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 14:32:49,sakura,dorsal,dopamine,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_dmso_inc,2024-06-25 16:17:12,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 16:17:12,sakura,dorsal,dmso,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_gabazine_inc,2024-06-25 14:40:25,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 14:40:25,sakura,dorsal,gaba,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_12_05_49_20247_day73_dorsal_e14_gaba_inc,2024-06-24 12:38:20,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 12:38:20,sakura,dorsal,gaba,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_11_08_11_20247_day73_dorsal_e14_APV_inc,2024-06-24 16:18:55,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 16:18:55,sakura,dorsal,apv,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_Baseline_CCH,2024-06-25 12:18:16,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 12:18:16,sakura,dorsal,baseline,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_Baseline_gabazine,2024-06-25 13:51:50,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 13:51:50,sakura,dorsal,gaba,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_nbqx_inc,2024-06-25 11:29:08,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 11:29:08,sakura,dorsal,nbqx,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_CCH_init,2024-06-25 12:36:31,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 12:36:31,sakura,dorsal,carbachol,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240625_10_39_00_20247_day74_dorsal_e14_dmso_init,2024-06-25 15:47:02,organoid,organoid,E14,2024-04-11,2024-04-29,75 days 15:47:02,sakura,dorsal,dmso,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_11_08_11_20247_day73_dorsal_e14_dopamine_init,2024-06-24 14:02:36,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 14:02:36,sakura,dorsal,dopamine,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_11_08_11_20247_day73_dorsal_e14_APV_init,2024-06-24 15:48:11,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 15:48:11,sakura,dorsal,apv,20247e
+2024-06-25-e-sakura-drugs-20247,Trace_20240624_11_08_11_20247_day73_dorsal_e14_baseline_APV,2024-06-24 15:26:04,organoid,organoid,E14,2024-04-11,2024-04-29,74 days 15:26:04,sakura,dorsal,baseline,20247e
+2024-07-05-e-all_cell_lines_dorsal_pasca,23139_KH2_d62_07-05-2024_dorsal_pasca,2024-07-05 12:06:43,organoid,organoid,KH2,2024-05-04,2024-06-04,62 days 12:06:43,sakura,dorsal,,23139e
+2024-07-05-e-all_cell_lines_dorsal_pasca,23141_C57_d62_07-05-2024_dorsal_pasca,2024-07-05 10:01:31,organoid,organoid,C57BL6,2024-05-04,2024-06-04,62 days 10:01:31,sakura,dorsal,,23141e
+2024-07-05-e-all_cell_lines_dorsal_pasca,23187_C57_d62_07-05-2024_dorsal_pasca,2024-07-05 09:32:04,organoid,organoid,C57BL6,2024-05-04,2024-06-04,62 days 09:32:04,sakura,dorsal,,23187e
+2024-07-05-e-all_cell_lines_dorsal_pasca,23120_E14_d62_07-05-2024_dorsal_pasca,2024-07-05 13:25:54,organoid,organoid,E14,2024-05-04,2024-06-04,62 days 13:25:54,sakura,dorsal,,23120e
+2024-07-05-e-all_cell_lines_dorsal_pasca,23150_E14_d62_07-05-2024_dorsal_pasca,2024-07-05 12:57:17,organoid,organoid,E14,2024-05-04,2024-06-04,62 days 12:57:17,sakura,dorsal,,23150e
+2024-07-05-e-all_cell_lines_dorsal_pasca,23178_E14_d62_07-05-2024_dorsal_pasca,2024-07-05 13:54:53,organoid,organoid,E14,2024-05-04,2024-06-04,62 days 13:54:53,sakura,dorsal,,23178e
+2024-09-04-e-ventral_day48/,Trace_20240902_13_06_07_25126_day48_ventral_kh2,2024-09-04 15:42:56,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,50 days 15:42:56,sakura,ventral,,25126e
+2024-09-04-e-ventral_day48/,Trace_20240902_13_06_07_22064b_day48_ventral_kh2,2024-09-02 13:07:06,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,48 days 13:07:06,sakura,ventral,,22064e
+2024-09-04-e-ventral_day48/,ventral-kh2-25126-48d,2024-09-02 12:57:03,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,48 days 12:57:03,sakura,ventral,,25126e
+2024-08-23-e-,25126_ventral_day38,2024-08-23 13:37:14,organoid,organoid,KH2,2024-07-16,,38 days 13:37:14,sakura,ventral,,25126e
+2024-08-23-e-,ventral-kh2-25126-41day,2024-08-26 10:48:03,organoid,organoid,KH2,2024-07-16,,41 days 10:48:03,sakura,ventral,,25126e
+2024-08-23-e-,ventral-kh2-22150b-38day,2024-08-23 13:08:27,organoid,organoid,KH2,2024-07-16,,38 days 13:08:27,sakura,ventral,,22150be
+2024-08-21-e-ventral_day36,Trace_20240821_10_59_12_22064b_day36_ventral_kh2,2024-08-21 11:42:09,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,36 days 11:42:09,sakura,ventral,,22064e
+2024-08-21-e-ventral_day36,Trace_20240821_10_59_12_25126_day36_ventral_kh2,2024-08-21 11:01:01,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,36 days 11:01:01,sakura,ventral,,25126e
+2024-08-21-e-ventral_day36,Trace_20240821_10_59_12_22150b_day36_ventral_kh2,2024-08-21 12:30:01,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,36 days 12:30:01,sakura,ventral,,22150be
+2024-08-23-e-ventral_day38,ventral-kh2-22064b-38d,2024-08-23 13:09:41,organoid,organoid,KH2,2024-07-16,,38 days 13:09:41,sakura,ventral,,22064e
+2024-08-26-e-ventral_day41,ventral-kh2-22064b-41d,2024-08-26 09:59:05,organoid,organoid,KH2,2024-07-16,,41 days 09:59:05,sakura,ventral,,22064e
+2024-08-26-e-ventral_day41,ventral-kh2-23117d-41d-ddd,2024-08-26 11:04:23,organoid,organoid,KH2,2024-07-16,,41 days 11:04:23,sakura,ventral,,23117d
+2024-08-26-e-ventral_day41,ventral-kh2-25122-41d-ddd,2024-08-26 14:22:40,organoid,organoid,KH2,2024-07-16,,41 days 14:22:40,sakura,ventral,,25122e
+2024-08-26-e-ventral_day41,Trace_20240524_14_28_43_22194_day42_ventral_e14,2024-05-24 14:30:11,organoid,organoid,E14,2024-07-16,,42 days 00:00:00,sakura,ventral,,22194e
+2024-08-30-e-ventral_day45,ventral-kh2-23117b-45d,2024-08-30 19:52:10,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,45 days 19:52:10,sakura,ventral,,23117be
+2024-08-30-e-ventral_day45,ventral-kh2-25126-45d,2024-08-30 18:38:29,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,45 days 18:38:29,sakura,ventral,,25126e
+2024-08-30-e-ventral_day45,ventral-kh2-22064b-45d,2024-08-30 19:10:29,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,45 days 19:10:29,sakura,ventral,,22064e
+2024-09-04-e-ventral_day48,Trace_20240902_13_06_07_25126_day48_ventral_kh2,2024-09-04 15:42:56,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,50 days 15:42:56,sakura,ventral,,25126e
+2024-09-04-e-ventral_day48,Trace_20240902_13_06_07_22064b_day48_ventral_kh2,2024-09-02 13:07:06,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,48 days 13:07:06,sakura,ventral,,22064e
+2024-09-04-e-ventral_day48,ventral-kh2-25126-48d,2024-09-02 12:57:03,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,48 days 12:57:03,sakura,ventral,,25126e
+2024-09-04-e-ventral_day50,Trace_20240904_11_42_00_23117d_day50_ventral_kh2,2024-09-04 11:43:10,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,50 days 11:43:10,sakura,ventral,,23117d
+2024-09-04-e-ventral_day50,Trace_20240621_12_36_27_22064_day50_dorsal_kh2_,2024-09-04 15:49:25,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,50 days 15:49:25,,dorsal,,22064e
+2024-09-06-e-ventral_day52,Trace_20240906_14_22_41_25123_day52_ventral_kh2,2024-09-06 14:23:17,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,52 days 14:23:17,sakura,ventral,,25123e
+2024-09-06-e-ventral_day52,Trace_20240621_12_36_27_25126_day52_dorsal_kh2_,2024-09-06 10:50:55,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,52 days 10:50:55,,dorsal,,25126e
+2024-09-13-e-ventral_day57,Trace_20240913_15_50_34_25122_day57_ventral_kh2,2024-09-13 15:51:38,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,59 days 15:51:38,sakura,ventral,,25122e
+2024-09-13-e-ventral_day57,Trace_20240913_15_54_26_ventral_day_57_22064b,2024-09-13 15:57:13,organoid,organoid,KH2,2024-07-16,yyyy-mm-ddThh:mm:ss,59 days 15:57:13,sakura,ventral,,22064e
+2024-03-29-e-interneurons_44,Trace_20240329_16_54_54_interneurons_44_23149,2024-03-29 16:55:15,organoid,organoid,C57BL6,,,,sakura,ventral,,23149d
+2024-03-29-e-interneurons_44,Trace_20240329_16_28_31_interneurons_44_23154,2024-03-29 16:29:08,organoid,organoid,C57BL6,,,,sakura,ventral,,23154d
+2024-03-29-e-interneurons_44,Trace_20240329_16_00_48_interneurons_44_23196,2024-03-29 16:01:44,organoid,organoid,C57BL6,,,,sakura,ventral,,23196d
+2024-04-10-e-interneurons_56,Trace_20240410_19_22_02_minute0_nosynaptic_pasca_ventral_56_23196,2024-04-10 19:23:02,organoid,organoid,C57BL6,2024-02-14,,56 days 19:23:02,sakura,ventral,nbqx + apv + gabazine,23196d
+2024-04-10-e-interneurons_56,Trace_20240410_17_43_20_pasca_ventral_56_23154,2024-04-10 17:43:48,organoid,organoid,C57BL6,2024-02-14,,56 days 17:43:48,sakura,ventral,,23154d
+2024-04-10-e-interneurons_56,Trace_20240410_18_11_55_pasca_ventral_56_23196,2024-04-10 18:12:23,organoid,organoid,C57BL6,2024-02-14,,56 days 18:12:23,sakura,ventral,,23196d
+2024-04-10-e-interneurons_56,Trace_20240410_19_55_07_minute30_nosynaptic_pasca_ventral_56_23196,2024-04-10 19:55:41,organoid,organoid,C57BL6,2024-02-14,,56 days 19:55:41,sakura,ventral,nbqx + apv + gabazine,23196d
+2024-04-10-e-interneurons_56,Trace_20240410_18_59_36_pasca_ventral_56_23196_control_DMSO,2024-04-10 19:00:04,organoid,organoid,C57BL6,2024-02-14,,56 days 19:00:04,sakura,ventral,dmso,23196d
+2024-04-11-e-interneurons-pasca-57,Trace_20240411_19_14_44_pasca_ventral_57_nosynaptic_minute30,2024-04-11 19:15:13,organoid,organoid,C57BL6,2024-02-14,yyyy-mm-ddThh:mm:ss,57 days 19:15:13,sakura,ventral,nbqx + apv + gabazine,unknownd
+2024-04-11-e-interneurons-pasca-57,Trace_20240411_18_39_43_pasca_ventral_57_nosynaptic_minute0,2024-04-11 18:40:10,organoid,organoid,C57BL6,2024-02-14,yyyy-mm-ddThh:mm:ss,57 days 18:40:10,sakura,ventral,nbqx + apv + gabazine,unknownd
+2024-04-11-e-interneurons-pasca-57,Trace_20240411_17_37_54_pasca_ventral_57_baseline,2024-04-11 17:38:45,organoid,organoid,C57BL6,2024-02-14,yyyy-mm-ddThh:mm:ss,57 days 17:38:45,sakura,ventral,baseline,unknownd
+2024-04-11-e-interneurons-pasca-57,Trace_20240411_17_55_10_pasca_ventral_57_baseline_after5min,2024-04-11 17:56:27,organoid,organoid,C57BL6,2024-02-14,yyyy-mm-ddThh:mm:ss,57 days 17:56:27,sakura,ventral,baseline,unknownd
+2024-04-11-e-interneurons-pasca-57,Trace_20240411_18_10_30_pasca_ventral_57_offset,2024-04-11 18:11:16,organoid,organoid,C57BL6,2024-02-14,yyyy-mm-ddThh:mm:ss,57 days 18:11:16,sakura,ventral,,unknownd
+2024-11-04-e-ventral_day44,Trace_20241104_18_50_55_25244_ventral_Day44,2024-11-04 18:51:15,organoid,organoid,KH2,2024-09-21,,44 days 18:51:15,sakura,ventral,,25244e
+2024-11-04-e-ventral_day44,Trace_20241104_18_23_02_25136_ventral_Day44,2024-11-04 18:24:17,organoid,organoid,KH2,2024-09-21,,44 days 18:24:17,sakura,ventral,,25136e
+2024-10-25-e-ventral-day33,Trace_20241025_13_18_20_23117F_day34_ventral_kh2,2024-10-25 16:39:43,organoid,organoid,KH2,2024-09-21,,34 days 16:39:43,sakura,ventral,,23117Fe
+2024-10-25-e-ventral-day33,Trace_20241025_13_18_20_25136_day34_ventral_kh2,2024-10-25 16:10:34,organoid,organoid,KH2,2024-09-21,,34 days 16:10:34,sakura,ventral,,25136e
+2024-10-25-e-ventral-day33,Trace_20241024_11_28_15_23117f_ventral_kh2_day33,2024-10-24 11:29:30,organoid,organoid,KH2,2024-09-21,,33 days 11:29:30,sakura,ventral,,23117fe
+2024-10-25-e-ventral-day33,Trace_20241024_13_18_20_25126d_day33_ventral_kh2,2024-10-24 13:19:22,organoid,organoid,KH2,2024-09-21,,33 days 13:19:22,sakura,ventral,,25126d
+2024-10-25-e-ventral-day33,Trace_20241111_11_43_15_25158-day53_ventral_kh2,2024-11-11 14:41:30,organoid,organoid,KH2,2024-09-21,,51 days 14:41:30,sakura,ventral,,25158e

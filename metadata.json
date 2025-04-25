@@ -1,0 +1,102 @@
+{
+    "uuid": "2024-06-19-e-sakura-ventral-day46",
+    "timestamp": "",
+    "maxwell_chip_id": "N/A",
+    "notes": {
+        "purpose": "",
+        "biology": {
+            "sample_type": "organoid",
+            "aggregation_date": "2024-05-04",
+            "plating_date": "",
+            "species": "mouse",
+            "cell_line": "c57",
+            "genotype": "",
+            "culture_media": "sakura",
+            "organoid_tracker_sr_no": "",
+            "organoid modification": "",
+            "organoid modification date": ""
+        },
+        "stimulation": {
+            "optogenetic": false,
+            "electrical": false,
+            "pharmacological": ""
+        },
+        "automated_feeding": false,
+        "automated_imaging": false,
+        "comments": ""
+    },
+    "ephys_experiments": {
+        "Trace_20240619_12_53_28_23119a_day46_ventral_c57": {
+            "name": "Trace_20240619_12_53_28_23119a_day46_ventral_c57",
+            "hardware": "Maxwell",
+            "maxwell_chip_number": "N/A",
+            "maxwell_tracker_sr_no": "xxxxxx",
+            "channels": [],
+            "notes": "",
+            "num_channels": 968,
+            "num_current_input_channels": 0,
+            "num_voltage_channels": 32,
+            "offset": 0,
+            "sample_rate": 20000,
+            "voltage_scaling_factor": 1,
+            "timestamp": "2024-06-19 T12:53:57;",
+            "units": "\u00b5V",
+            "version": 20190530,
+            "blocks": [
+                {
+                    "num_frames": 11229600,
+                    "path": "original/data/Trace_20240619_12_53_28_23119a_day46_ventral_c57.raw.h5",
+                    "timestamp": "2024-06-19 T12:53:57;"
+                }
+            ]
+        },
+        "Trace_20240619_11_52_51_22150a_day46_ventral_c57": {
+            "name": "Trace_20240619_11_52_51_22150a_day46_ventral_c57",
+            "hardware": "Maxwell",
+            "maxwell_chip_number": "N/A",
+            "maxwell_tracker_sr_no": "xxxxxx",
+            "channels": [],
+            "notes": "",
+            "num_channels": 945,
+            "num_current_input_channels": 0,
+            "num_voltage_channels": 32,
+            "offset": 0,
+            "sample_rate": 20000,
+            "voltage_scaling_factor": 1,
+            "timestamp": "2024-06-19 T11:54:47;",
+            "units": "\u00b5V",
+            "version": 20190530,
+            "blocks": [
+                {
+                    "num_frames": 13461000,
+                    "path": "original/data/Trace_20240619_11_52_51_22150a_day46_ventral_c57.raw.h5",
+                    "timestamp": "2024-06-19 T11:54:47;"
+                }
+            ]
+        },
+        "Trace_20240619_12_24_17_20174a_day46_ventral_c57": {
+            "name": "Trace_20240619_12_24_17_20174a_day46_ventral_c57",
+            "hardware": "Maxwell",
+            "maxwell_chip_number": "N/A",
+            "maxwell_tracker_sr_no": "xxxxxx",
+            "channels": [],
+            "notes": "",
+            "num_channels": 980,
+            "num_current_input_channels": 0,
+            "num_voltage_channels": 32,
+            "offset": 0,
+            "sample_rate": 20000,
+            "voltage_scaling_factor": 1,
+            "timestamp": "2024-06-19 T12:25:10;",
+            "units": "\u00b5V",
+            "version": 20190530,
+            "blocks": [
+                {
+                    "num_frames": 11391400,
+                    "path": "original/data/Trace_20240619_12_24_17_20174a_day46_ventral_c57.raw.h5",
+                    "timestamp": "2024-06-19 T12:25:10;"
+                }
+            ]
+        }
+    }
+}
