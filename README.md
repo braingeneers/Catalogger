@@ -12,14 +12,22 @@ Catalogger is a Python package for loading, cataloging, and analyzing data from 
 
 ## Installation
 
+First, install the SpikeData dependency:
+
 ```bash
-pip install git+ssh://git@github.com:hschweiger15/Catalogger.git
+pip install git+https://github.com/braingeneers/SpikeData
+```
+
+Then install Catalogger:
+
+```bash
+pip install git+https://github.com/hschweiger15/Catalogger.git
 ```
 
 Or clone the repository and install locally:
 
 ```bash
-git clone git@github.com:hschweiger15/Catalogger.git
+git clone https://github.com/hschweiger15/Catalogger.git
 cd Catalogger
 pip install .
 ```
@@ -27,7 +35,7 @@ pip install .
 ## Requirements
 
 - Python >= 3.8
-- See `setup.py` for a full list of dependencies, including: `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, `h5py`, `scikit-learn`, `statsmodels`, `tqdm`, `joblib`, `boto3`, `pyarrow`, `tables`, `umap-learn`, `nptyping`, `numba`, `pyqt5`, `xarray`, and more.
+- See `setup.py` for a full list of dependencies, including: `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, `h5py`, `tqdm`, `joblib`, `boto3`, `pyarrow`, `tables`, `nptyping`, `pyqt5`, `xarray`, and more.
 
 ## Usage
 

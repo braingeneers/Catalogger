@@ -6,7 +6,6 @@ import pandas as pd
 import re
 from braingeneers.analysis import SpikeData, load_spike_data
 from braingeneers.data import datasets_electrophysiology as ephys
-from IPython import embed
 
 
 

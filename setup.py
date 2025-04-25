@@ -33,7 +33,6 @@ setup(
         "matplotlib",
         "seaborn",
         "h5py",
-        "scikit-learn",
         "statsmodels",
         "tqdm",
         "joblib",
@@ -44,9 +43,7 @@ setup(
         "smart_open",
         "braingeneers",
         "braingeneers-smart-open",
-        "spikedata",
         "schedule",
-        "umap-learn",
         "nptyping",
         "numexpr",
         "pygments",
@@ -58,5 +55,6 @@ setup(
         "wrapt",
         "zipp",
         "typing-extensions",
+        "scienceplots"
     ],
 )
