@@ -1,8 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-from catalogger.Loaders import load_catalog, get_spike_data
-# from catalogger.plotting import plot_styled_raster
-
+from catalogger.Loaders import AcqmLoader
+import numpy as np
+import os
 
 
 ## Plotting functions
@@ -172,15 +172,24 @@ def plot_styled_raster(spike_data, title=None, time_window=None, y_lim=None,
 
 
 # Load the catalog (update the path as needed)
-catalog = load_catalog('../catalog_baseline.csv')
+catalog = pd.read_csv('../catalog_baseline.csv')
+
+# Set your basepath (update as needed)
+basepath = '/Volumes/hunter_ssd/sakura_ephys_data/recs_low_isi'  # <-- update to your actual data path
+
+# Instantiate the loader
+loader = AcqmLoader(basepath=basepath, catalog=catalog)
+
+# Update the catalog with spike data (optional, only if not already done)
+loader.update_catalog(gen_metrics=True, min_units=5)
 
 # Select a recording name (first entry as example)
-recording_name = catalog['experiment_name'].iloc[10]
+recording_name = loader.catalog['experiment_name'].iloc[10]
 
 # Get the SpikeData object for the recording
-sd = get_spike_data(catalog, recording_name)
+sd = loader.get_spike_data(recording_name)
 
-# Plot the raster
+# Plot the raster (reuse your plotting function)
 fig, (ax, ax2) = plot_styled_raster(
     sd,
     title=f"Raster for {recording_name}",
