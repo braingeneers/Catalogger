@@ -61,18 +61,20 @@ class AcqmLoader:
         Returns:
         tuple: (train, neuron_data, config, fs)
         """
-        return self.load_curation(qm_path)
+        train, neuron_data, config, fs = self.load_curation(qm_path)
+        train = [t*1000 for t in train]  # convert to ms if needed
+        return analysis.SpikeData(train, neuron_data={0: neuron_data})
 
     def load_from_path_using_cat(self, exp_name, suffix='_params_params_low_ISI_acqm.zip'):
         """
-        Load spike data for a single experiment using the catalog. This will load using the full path.
+        Load spike data for a single experiment using the catalog. This will load using the full path and return a SpikeData object.
         
         Parameters:
         exp_name (str): Name of the experiment to load.
         suffix (str): Suffix for the acqm zip file. Default is '_params_params_low_ISI_acqm.zip'.
         
         Returns:
-        tuple: (train, neuron_data, config, fs)
+        SpikeData: The loaded SpikeData object.
         """
         if self.basepath is None or self.catalog is None:
             raise ValueError("basepath and catalog must be set for this operation.")
