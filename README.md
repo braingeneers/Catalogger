@@ -75,21 +75,106 @@ spike_data = loader.get_spike_data('Trace_20240619_12_24_17_20174a_day46_ventral
 |------------------------------|-------------------------------------------------|---------------------|-------------|-----------|-----------|------------|--------------|-----------------|--------|------------|----------|-------------|
 | 2024-05-04-e-sakura-day22and24 | Trace_20240504_13_26_11_21985_day22_ventral_e14 | 2024-05-04 13:27:00 | organoid    | organoid  | E14       | 2024-04-11 | 2024-04-29   | 23 days 13:27:00| sakura | ventral    |          | 21985e      |
 
-## Contributing
 
-Contributions are welcome! Please open issues or pull requests on GitHub.
 
-## License
+## Drug Loading
 
-MIT License
+Catalogger includes a `DrugLoader` class for managing and analyzing drug application metadata and effects in your experiments. This class helps you load drug information, associate it with recordings, and perform downstream analyses.
 
-## Author
+### Example Usage
 
-Hunter Schweiger (hschweig@ucsc.edu)
+```python
+from catalogger.Loaders import DrugLoader
+import pandas as pd
+
+# Load the catalog
+catalog = pd.read_csv('catalog_baseline.csv')
+
+# Initialize the DrugLoader
+drug_loader = DrugLoader(catalog=catalog)
+
+# Access drug information for a specific experiment
+experiment_name = catalog['experiment_name'].iloc[0]
+drug_info = drug_loader.get_drug_info(experiment_name)
+print(drug_info)
+```
+
+- The `DrugLoader` can be used to filter experiments by drug, analyze drug effects, and integrate drug metadata into your analysis workflows.
+
+
+
+```
+
+#### Example Usage
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+from catalogger.Loaders import AcqmLoader
+from catalogger.cell_styler import Styler
+
+# Load the catalog
+catalog = pd.read_csv('catalog_baseline.csv')
+
+# Set your basepath
+basepath = '/path/to/data'  # Update to your actual data path
+
+# Instantiate the loader
+loader = AcqmLoader(basepath=basepath, catalog=catalog)
+
+# Update the catalog with spike data (optional)
+loader.update_catalog(gen_metrics=True, min_units=5)
+
+# Select a recording name
+recording_name = loader.catalog['experiment_name'].iloc[0]
+
+# Get the SpikeData object for the recording
+sd = loader.get_spike_data(recording_name)
+
+# Create a Styler for standardized plotting
+styler = Styler(
+    font_size=12,
+    tick_size=10,
+    line_width=1.5,
+    color_palette='deep',
+    raster_marker='|',
+    raster_marker_size=8
+)
+
+# Plot the raster with standardized style
+fig, (ax, ax2) = plot_styled_raster(
+    sd,
+    title=f"Raster for {recording_name}",
+    sort_by_fr=True,
+    styler=styler
+)
+plt.show()
+```
+
+- Set `sort_by_fr=True` to sort neurons by firing rate (highest at bottom).
+- The function supports custom time windows, population rate units, and saving plots to file.
+- For advanced styling, pass a `Styler` object (see `cell_styler.py`).
+
+### Styler for Standardized Plotting
+
+The `Styler` class allows you to standardize the appearance of your plots for publication-quality figures. You can customize font sizes, line widths, color palettes, and marker styles. Pass a `Styler` instance to `plot_styled_raster` to apply consistent formatting across your figures.
+
+```python
+from catalogger.cell_styler import Styler
+
+styler = Styler(
+    font_size=12,
+    tick_size=10,
+    line_width=1.5,
+    color_palette='deep',
+    raster_marker='|',
+    raster_marker_size=8
+)
+```
 
 ## Plotting and Visualization
 
-Catalogger provides a utility function for visualizing spike data as a styled raster plot with population firing rate overlay.
+Catalogger provides an example function for visualizing spike data as a styled raster plot with population firing rate overlay.
 
 ### plot_styled_raster
 
@@ -118,42 +203,17 @@ def plot_styled_raster(spike_data, title=None, time_window=None, y_lim=None,
         tuple: (fig, (ax1, ax2)) where ax2 is None if no spikes are present
     """
     # ...see examples/ex_usage.py for full implementation...
-```
 
-#### Example Usage
 
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-from catalogger.Loaders import AcqmLoader
+## Contributing
 
-# Load the catalog
-catalog = pd.read_csv('catalog_baseline.csv')
+Contributions are welcome! Please open issues or pull requests on GitHub.
 
-# Set your basepath
-basepath = '/path/to/data'  # Update to your actual data path
+## License
 
-# Instantiate the loader
-loader = AcqmLoader(basepath=basepath, catalog=catalog)
+MIT License
 
-# Update the catalog with spike data (optional)
-loader.update_catalog(gen_metrics=True, min_units=5)
+## Author
 
-# Select a recording name
-recording_name = loader.catalog['experiment_name'].iloc[0]
-
-# Get the SpikeData object for the recording
-sd = loader.get_spike_data(recording_name)
-
-# Plot the raster
-fig, (ax, ax2) = plot_styled_raster(
-    sd,
-    title=f"Raster for {recording_name}",
-    sort_by_fr=True
-)
-plt.show()
-```
-
-- Set `sort_by_fr=True` to sort neurons by firing rate (highest at bottom).
-- The function supports custom time windows, population rate units, and saving plots to file.
-- For advanced styling, pass a `Styler` object (see `cell_styler.py`).
+Hunter Schweiger (hschweig@ucsc.edu)
+Ash Robbins 
