@@ -99,7 +99,7 @@ class AcqmLoader:
         return self.catalog.loc[self.catalog['experiment_name'] == recording_name, 'data_obj'].values[0]
 
     @staticmethod
-    def update_catalog_with_spike_data(catalog, basepath, gen_metrics=False, min_units=None):
+    def update_catalog_with_spike_data(catalog, basepath, gen_metrics=False, min_units=None, suffix='_params_params_low_ISI_acqm.zip'):
         """
         Update the catalog with spike data and metrics.
         
@@ -109,6 +109,7 @@ class AcqmLoader:
         gen_metrics (bool): Whether to generate metrics for the spike data.
         min_units (int, optional): Minimum number of units required to include a recording. 
                                   If None, all recordings are included.
+        suffix (str): Suffix for the acqm zip file. Default is '_params_params_low_ISI_acqm.zip'.
         
         Returns: 
         pd.DataFrame: The updated catalog DataFrame with filtered entries if min_units is specified.
@@ -119,7 +120,7 @@ class AcqmLoader:
         for idx, row in catalog.iterrows():
             uuid = row['uuids']
             exp = row['experiment_name']
-            exp_path = os.path.join(basepath, uuid, exp + '_params_params_low_ISI_acqm.zip')
+            exp_path = os.path.join(basepath, uuid, exp + suffix)
             if os.path.exists(exp_path):
                 print(f"Processing: {exp_path}")
                 try:
@@ -168,20 +169,21 @@ class AcqmLoader:
         
         return catalog
 
-    def update_catalog(self, gen_metrics=False, min_units=None):
+    def update_catalog(self, gen_metrics=False, min_units=None, suffix='_params_params_low_ISI_acqm.zip'):
         """
         Update the loader's catalog with spike data and metrics.
         
         Parameters:
         gen_metrics (bool): Whether to generate metrics for the spike data.
         min_units (int, optional): Minimum number of units required to include a recording.
+        suffix (str): Suffix for the acqm zip file. Default is '_params_params_low_ISI_acqm.zip'.
         
         Returns:
         pd.DataFrame: The updated catalog DataFrame.
         """
         if self.catalog is None or self.basepath is None:
             raise ValueError("basepath and catalog must be set for this operation.")
-        updated = AcqmLoader.update_catalog_with_spike_data(self.catalog, self.basepath, gen_metrics, min_units)
+        updated = AcqmLoader.update_catalog_with_spike_data(self.catalog, self.basepath, gen_metrics, min_units, suffix)
         self.catalog = updated
         return updated
 
